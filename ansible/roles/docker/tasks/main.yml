@@ -4,7 +4,7 @@
   docker_image:
     name: devops
     build:
-     path: /var/lib/jenkins/workspace/okook
+     path: /var/lib/jenkins/workspace/pipe
      pull: no
     source: build
     state: present
